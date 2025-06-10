@@ -92,12 +92,13 @@ MySQL 8.0+
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Gotham9269/Food-Delivery-Application/blob/master/Home.png?raw=true)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Gotham9269/Food-Delivery-Application/blob/master/Menu.png?raw=true)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Gotham9269/Food-Delivery-Application/blob/master/Checkout.png?raw=true)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Gotham9269/Food-Delivery-Application/blob/master/cart.png?raw=true)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Gotham9269/Food-Delivery-Application/blob/master/Confirmation.png?raw=true)
+
