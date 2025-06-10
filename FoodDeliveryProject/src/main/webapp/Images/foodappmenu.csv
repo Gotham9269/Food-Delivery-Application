@@ -1,0 +1,71 @@
+menuid,restaurantid,itemName,description,price,isAvailable,ratings,imageData
+2,13,"Margherita Pizza","Classic pizza with fresh mozzarella, tomatoes, and basil on wood-fired crust.",450.00,1,4.50,NULL
+3,13,"Pepperoni Pizza","Traditional pepperoni with mozzarella cheese and spicy pepperoni slices.",520.00,1,4.40,NULL
+4,13,"Quattro Stagioni","Four seasons pizza with mushrooms, artichokes, ham, and olives.",680.00,1,4.60,NULL
+5,13,"Garlic Bread","Crispy bread with garlic butter and herbs, perfect for sharing.",180.00,1,4.20,NULL
+6,13,"Caesar Salad","Fresh romaine lettuce with parmesan, croutons, and Caesar dressing.",320.00,1,4.30,NULL
+7,13,Tiramisu,"Classic Italian dessert with coffee-soaked ladyfingers and mascarpone.",280.00,1,4.70,NULL
+8,13,"Italian Soda","Refreshing sparkling water with natural fruit flavors.",120.00,1,4.10,NULL
+9,14,"Classic Cheeseburger","Juicy beef patty with cheddar cheese, lettuce, tomato, and special sauce.",380.00,1,4.20,NULL
+10,14,"BBQ Bacon Burger","Beef patty with crispy bacon, BBQ sauce, onion rings, and cheese.",450.00,1,4.40,NULL
+11,14,"Chicken Deluxe Burger","Grilled chicken breast with avocado, lettuce, and mayo on brioche bun.",420.00,1,4.30,NULL
+12,14,"Loaded Fries","Crispy fries topped with cheese, bacon bits, and sour cream.",250.00,1,4.10,NULL
+13,14,"Onion Rings","Golden crispy onion rings served with ranch dipping sauce.",180.00,1,4.00,NULL
+14,14,"Chocolate Milkshake","Thick and creamy chocolate milkshake topped with whipped cream.",220.00,1,4.50,NULL
+15,14,"Coca Cola","Classic refreshing cola served ice cold.",80.00,1,4.20,NULL
+16,15,"Salmon Nigiri","Fresh salmon over seasoned sushi rice, served in pairs.",320.00,1,4.70,NULL
+17,15,"California Roll","Crab, avocado, and cucumber rolled in nori and rice.",280.00,1,4.50,NULL
+18,15,"Dragon Roll","Eel and cucumber topped with avocado and eel sauce.",450.00,1,4.80,NULL
+19,15,"Miso Soup","Traditional soybean paste soup with tofu and seaweed.",150.00,1,4.30,NULL
+20,15,"Chicken Teriyaki","Grilled chicken glazed with sweet teriyaki sauce and steamed rice.",520.00,1,4.40,NULL
+21,15,"Tempura Prawns","Lightly battered and fried prawns served with tempura sauce.",380.00,1,4.60,NULL
+22,15,"Green Tea","Premium Japanese green tea served hot.",100.00,1,4.20,NULL
+23,16,"Beef Tacos","Seasoned ground beef with lettuce, cheese, and salsa in corn tortillas.",280.00,1,4.30,NULL
+24,16,"Chicken Quesadilla","Grilled chicken and cheese in flour tortilla, served with sour cream.",350.00,1,4.40,NULL
+25,16,"Guacamole & Chips","Fresh avocado dip served with crispy tortilla chips.",220.00,1,4.50,NULL
+26,16,"Beef Burrito","Large flour tortilla filled with beef, rice, beans, and cheese.",420.00,1,4.20,NULL
+27,16,"Nachos Supreme","Tortilla chips topped with cheese, jalapeños, and ground beef.",380.00,1,4.10,NULL
+28,16,Churros,"Fried dough pastry rolled in cinnamon sugar, served with chocolate sauce.",180.00,1,4.60,NULL
+29,16,Horchata,"Traditional rice and cinnamon drink served chilled.",120.00,1,4.30,NULL
+30,17,"Butter Chicken","Tender chicken in rich tomato and cream sauce with aromatic spices.",480.00,1,4.60,NULL
+31,17,Biryani,"Fragrant basmati rice with spiced chicken and saffron, served with raita.",420.00,1,4.70,NULL
+32,17,"Palak Paneer","Fresh cottage cheese cubes in creamy spinach curry.",380.00,1,4.50,NULL
+33,17,"Naan Bread","Soft leavened bread baked in tandoor oven, perfect with curries.",80.00,1,4.40,NULL
+34,17,Samosas,"Crispy pastries filled with spiced potatoes and peas, served with chutney.",150.00,1,4.30,NULL
+35,17,"Gulab Jamun","Sweet milk dumplings in rose-flavored sugar syrup.",120.00,1,4.50,NULL
+36,17,"Mango Lassi","Refreshing yogurt drink blended with sweet mango pulp.",150.00,1,4.40,NULL
+37,18,"Spaghetti Carbonara","Classic Roman pasta with eggs, pancetta, and pecorino cheese.",420.00,1,4.10,NULL
+38,18,"Penne Arrabbiata","Penne pasta in spicy tomato sauce with garlic and red chilies.",350.00,1,4.20,NULL
+39,18,"Fettuccine Alfredo","Creamy fettuccine pasta with parmesan cheese and butter sauce.",380.00,1,4.30,NULL
+40,18,"Minestrone Soup","Traditional Italian vegetable soup with beans and pasta.",180.00,1,4.00,NULL
+41,18,Bruschetta,"Toasted bread topped with fresh tomatoes, basil, and garlic.",220.00,1,4.40,NULL
+42,18,"Panna Cotta","Silky vanilla dessert topped with berry compote.",250.00,1,4.50,NULL
+43,18,Espresso,"Strong Italian coffee served in traditional small cup.",100.00,1,4.60,NULL
+44,19,"Smoked Brisket","Slow-smoked beef brisket with signature dry rub and BBQ sauce.",680.00,1,4.40,NULL
+45,19,"BBQ Ribs","Fall-off-the-bone pork ribs glazed with smoky BBQ sauce.",750.00,1,4.60,NULL
+46,19,"Pulled Pork Sandwich","Tender pulled pork with coleslaw on brioche bun.",420.00,1,4.30,NULL
+47,19,"Mac and Cheese","Creamy macaroni and cheese baked with crispy breadcrumb topping.",280.00,1,4.20,NULL
+48,19,Coleslaw,"Fresh cabbage salad with tangy dressing, perfect BBQ side.",150.00,1,4.10,NULL
+49,19,"Peach Cobbler","Warm peach cobbler with vanilla ice cream.",320.00,1,4.50,NULL
+50,19,"Iced Tea","Refreshing sweet tea served over ice with lemon.",120.00,1,4.30,NULL
+51,20,"Quinoa Power Bowl","Quinoa with roasted vegetables, avocado, and tahini dressing.",380.00,1,4.00,NULL
+52,20,"Grilled Chicken Salad","Mixed greens with grilled chicken, cherry tomatoes, and balsamic.",420.00,1,4.20,NULL
+53,20,"Avocado Toast","Multigrain bread topped with smashed avocado, seeds, and lime.",280.00,1,4.30,NULL
+54,20,"Green Smoothie","Spinach, banana, mango, and coconut water blend.",220.00,1,4.10,NULL
+55,20,"Buddha Bowl","Brown rice with roasted chickpeas, vegetables, and hummus.",350.00,1,4.40,NULL
+56,20,"Chia Pudding","Overnight chia seeds with almond milk and fresh berries.",180.00,1,4.20,NULL
+57,20,Kombucha,"Fermented tea drink with probiotics and natural flavors.",150.00,1,4.00,NULL
+58,21,"Chicken Chow Mein","Stir-fried noodles with chicken and mixed vegetables.",320.00,1,4.20,NULL
+59,21,"Sweet and Sour Pork","Crispy pork pieces in tangy sweet and sour sauce.",380.00,1,4.30,NULL
+60,21,"Kung Pao Chicken","Spicy chicken with peanuts and vegetables in savory sauce.",350.00,1,4.40,NULL
+61,21,"Vegetable Spring Rolls","Crispy rolls filled with fresh vegetables, served with sweet chili sauce.",180.00,1,4.10,NULL
+62,21,"Fried Rice","Wok-fried rice with eggs, vegetables, and soy sauce.",250.00,1,4.00,NULL
+63,21,"Mango Pudding","Silky smooth mango dessert topped with fresh fruit.",150.00,1,4.30,NULL
+64,21,"Chinese Tea","Traditional oolong tea served hot in ceramic pot.",80.00,1,4.20,NULL
+65,22,"Ribeye Steak","Premium aged ribeye steak grilled to perfection, served with garlic mashed potatoes.",1250.00,1,4.80,NULL
+66,22,"Filet Mignon","Tender beef tenderloin with red wine reduction and roasted vegetables.",1450.00,1,4.90,NULL
+67,22,"Grilled Lobster","Fresh lobster tail grilled with herb butter and lemon.",1680.00,1,4.70,NULL
+68,22,"Caesar Salad","Classic Caesar with romaine, parmesan, and house-made croutons.",380.00,1,4.50,NULL
+69,22,"Truffle Risotto","Creamy arborio rice with black truffle and parmesan cheese.",850.00,1,4.60,NULL
+70,22,"Chocolate Lava Cake","Warm chocolate cake with molten center and vanilla ice cream.",420.00,1,4.80,NULL
+71,22,"Premium Wine","Selection of fine wines to complement your meal.",800.00,1,4.70,NULL
