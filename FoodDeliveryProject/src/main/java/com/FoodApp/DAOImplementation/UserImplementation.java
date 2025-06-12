@@ -14,7 +14,7 @@ import com.FoodApp.util.DBConnection;
 
 public class UserImplementation implements UserDAO{
 	private static String UPDATE="UPDATE user set name=?,username=?,password=?,email=?,phonenumber=?,address=?,role=? WHERE userid=?";
-	private static String INSERT="INSERT into user(name,username,password,email,phonenumber,address,role,created_date,login_date) values(?,?,?,?,?,?,?,?,?)";
+	private static String INSERT="INSERT into user(name,username,email,password,phonenumber,address,role,created_date,login_date) values(?,?,?,?,?,?,?,?,?)";
 	private static String user_by_id="SELECT * FROM user where userid=?";
 	private static String retrive_all_users="SELECT * FROM user";
 	private static String delete_user="delete from user where userid=?";
