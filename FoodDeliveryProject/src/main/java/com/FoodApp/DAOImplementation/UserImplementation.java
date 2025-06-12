@@ -19,7 +19,7 @@ public class UserImplementation implements UserDAO{
 	private static String retrive_all_users="SELECT * FROM user";
 	private static String delete_user="delete from user where userid=?";
     private static final String SELECT_ON_EMAIL = "SELECT * FROM `user` WHERE `email` = ?";
-    private static final String INSERT_USER="Insert into user(username,password,email,phonenumber,address)"
+    private static final String INSERT_USER="Insert into user(username,email,password,phonenumber,address)"
     		+ "values(?,?,?,?,?)";
 
 	@Override
